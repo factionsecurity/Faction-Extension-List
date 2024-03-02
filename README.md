@@ -1,4 +1,4 @@
-# Faction-Extension-List
+# Faction Approved Extension List
 
 
 List of Approved Faction Extensions
