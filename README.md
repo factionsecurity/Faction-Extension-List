@@ -1,7 +1,7 @@
-# Faction Approved Extension List
+# Faction Approved App Extension List
 
 
-List of Approved Faction Extensions
+List of Approved Faction Apps
 
 | Name | Developer | URL |
 | --- | --- | --- |
