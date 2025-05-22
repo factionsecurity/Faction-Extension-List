@@ -7,6 +7,7 @@ List of Approved Faction Apps
 | --- | --- | --- |
 | Faction Jira Integration | Faction Security | https://github.com/factionsecurity/Faction-Jira-Extension |
 | Faction Vulnerability Bar Chart | Faction Security | https://github.com/factionsecurity/Faction-Vulnerability-Bar-Chart |
+| Faction Checklist Reporting | Faction Security | https://github.com/factionsecurity/checklist-report-extension/releases |
 
 
 # Submit an Extension
